@@ -4,7 +4,7 @@
 
 ### Payment Record
 
-
+- [payment.md](payment.md)
 
 ## Code
 
